@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="com.android.ddmlib:ddmlib:r16" type="repository">
+    <properties maven-id="com.android.ddmlib:ddmlib:r16" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/ddmlib-r16.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/lib/ddmlib-r16-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib/ddmlib-r16-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
